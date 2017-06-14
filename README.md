@@ -1,6 +1,6 @@
 # AVB Bridge
 
-> MIDI Proxy App four your MOTU AVB Interface 
+> MIDI Proxy App for your MOTU AVB Interface 
 
 ## Build Setup
 

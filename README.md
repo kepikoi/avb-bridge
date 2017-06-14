@@ -21,4 +21,5 @@ npm run build --report
 npm run start
 ```
 
-
+## Release
+Prototype pre-release available on https://github.com/kepikoi/avb-bridge/releases

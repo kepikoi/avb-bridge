@@ -1,6 +1,6 @@
 {
   "name": "avbmidi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Vue.js project",
   "main": "main.js",
   "author": "Alec Utin <alec@utin.de>",

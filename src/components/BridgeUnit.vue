@@ -18,10 +18,6 @@
             <span>
                 {{avbTarget}}
             </span>
-            <!--<select name="avbtarget" id="avbtarget" v-model="avbTarget">-->
-                <!--<option>mix/main/0/matrix/fader</option>-->
-                <!--<option>mix/main/0/matrix/mute</option>-->
-            <!--</select>-->
         </div>
 
 

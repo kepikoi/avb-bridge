@@ -5,8 +5,6 @@ Vue.use(Vuex);
 import * as actions from './actions'
 import * as types from './types';
 
-import {debug} from '../helpers/debug';
-
 
 const state = {
     inputs: [],

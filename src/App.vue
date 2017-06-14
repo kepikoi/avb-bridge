@@ -41,7 +41,6 @@
                 value: 0,
                 selectedInput: null,
                 selectedPort: 1,
-                msg: 'Welcome to Your Vue.js App',
                 instances:1
             }
         },

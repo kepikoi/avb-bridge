@@ -1,6 +1,6 @@
-# avbmidi
+# AVB Bridge
 
-> A Vue.js project
+> MIDI Proxy App four your MOTU AVB Interface 
 
 ## Build Setup
 
@@ -16,6 +16,9 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
+
+# start electron
+npm run start
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
